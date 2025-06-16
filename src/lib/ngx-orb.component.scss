@@ -1,0 +1,19 @@
+.om-orb {
+  position: relative;
+  width: 100%;
+  height: 100%;
+
+  .om-orb-content {
+    position: relative;
+    width: 100%;
+    height: 100%;
+  }
+
+  .om-orb-canvas {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+  }
+}
